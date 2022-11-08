@@ -1,0 +1,61 @@
+"genre","region","sales"
+"Action","European Union",511
+"Action","Japan",160
+"Action","North America",863
+"Action","Other",182
+"Action","Worldwide",1718
+"Adventure","European Union",63
+"Adventure","Japan",52
+"Adventure","North America",102
+"Adventure","Other",16
+"Adventure","Worldwide",233
+"Fighting","European Union",99
+"Fighting","Japan",87
+"Fighting","North America",221
+"Fighting","Other",36
+"Fighting","Worldwide",443
+"Misc","European Union",211
+"Misc","Japan",107
+"Misc","North America",400
+"Misc","Other",73
+"Misc","Worldwide",791
+"Platform","European Union",199
+"Platform","Japan",131
+"Platform","North America",444
+"Platform","Other",51
+"Platform","Worldwide",826
+"Puzzle","European Union",50
+"Puzzle","Japan",57
+"Puzzle","North America",121
+"Puzzle","Other",12
+"Puzzle","Worldwide",240
+"Racing","European Union",234
+"Racing","Japan",57
+"Racing","North America",357
+"Racing","Other",76
+"Racing","Worldwide",724
+"Role-Playing","European Union",188
+"Role-Playing","Japan",353
+"Role-Playing","North America",330
+"Role-Playing","Other",59
+"Role-Playing","Worldwide",931
+"Shooter","European Union",315
+"Shooter","Japan",39
+"Shooter","North America",585
+"Shooter","Other",103
+"Shooter","Worldwide",1042
+"Simulation","European Union",113
+"Simulation","Japan",64
+"Simulation","North America",181
+"Simulation","Other",31
+"Simulation","Worldwide",388
+"Sports","European Union",371
+"Sports","Japan",135
+"Sports","North America",671
+"Sports","Other",132
+"Sports","Worldwide",1310
+"Strategy","European Union",45
+"Strategy","Japan",49
+"Strategy","North America",68
+"Strategy","Other",11
+"Strategy","Worldwide",173
